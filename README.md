@@ -59,4 +59,4 @@ https://github.com/CodeDavid09/noteTaker
 https://codedavid09.github.io/noteTaker/
 
 Deployed Link
-https://git.heroku.com/notetaker91.git
+https://notetaker91.herokuapp.com/
