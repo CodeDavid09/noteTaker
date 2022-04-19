@@ -1,19 +1,20 @@
 # 11 Express.js: Note Taker
 
-## Your Task
+## Summary
 
-Your assignment is to modify starter code to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
+To modify starter code to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
 The application’s front end has already been created. It's your job to build the back end, connect the two, and then deploy the entire application to Heroku.
 
 
-## User Story
+## Install
 
-```
-AS A small business owner
-I WANT to be able to write and save notes
-SO THAT I can organize my thoughts and keep track of tasks I need to complete
-```
+Clone the repository to your local development environment.
+
+git clone https://github.com/CodeDavid09/noteTaker
+Navigate to the developer-profile-generator folder using the command prompt.
+
+Run npm install to install all dependencies. To use the application locally, run node server.js in your CLI, and then open http://localhost:3000 in your preferred browswer. The Note Taker app is live on Heroku for you to use as well.
 
 
 ## Acceptance Criteria
@@ -33,15 +34,6 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
-
-
-## Mock-Up
-
-The following images show the web application's appearance and functionality:
-
-![Existing notes are listed in the left-hand column with empty fields on the right-hand side for the new note’s title and text.](./Assets/11-express-homework-demo-01.png)
-
-![Note titled “Balance accounts” reads, “Balance account books by end of day Monday,” with other notes listed on the left.](./Assets/11-express-homework-demo-02.png)
 
 
 ## Getting Started
@@ -66,3 +58,5 @@ https://github.com/CodeDavid09/noteTaker
 ## Site link 
 https://codedavid09.github.io/noteTaker/
 
+Deployed Link
+https://git.heroku.com/notetaker91.git
